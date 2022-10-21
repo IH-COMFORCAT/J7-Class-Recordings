@@ -13,7 +13,7 @@
 | 10/Octubre | Controladores 1 \| Get Mapping | https://ironhack.zoom.us/rec/share/awLhkw-urN1V0Xs--qe4V2WZ7jpygCGPocIAvp6xUeeGMhhB-QRKqpZaYKO0nOxZ.49oCMT6dr6spl6CO |
 | 11/Octubre | Servicios \| Post Mapping | https://ironhack.zoom.us/rec/share/GerZH3PyyIT5yOL3sGwXjLR4ocyOvCvipyA3mcvbC2GFITVykB_PDmYTrWqdkiLX.tfsMPZlUCLGRFnzD |
 | 14/Octubre | DTOs/Excepciones | https://ironhack.zoom.us/rec/share/54KT4H2p8zqlKWy0aSREZQl6pV5QcaaVwprQUQSM7jYAXx5vutJ-9MAUJJnUG6oc.SEZTBvhrZH9YyZOH |
-|  |  |  |
+| 17/Octubre | Seguridad | https://ironhack.zoom.us/rec/share/R0s-FMCnFnFOEnuS_6Eykil-LkHKtXunDyOYnyAxhO9jwdQkr17CXr0zz3yGEWZn.pTOzPGYSGwdPeGij |
 
 
 
