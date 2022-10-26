@@ -14,6 +14,8 @@
 | 11/Octubre | Servicios \| Post Mapping | https://ironhack.zoom.us/rec/share/GerZH3PyyIT5yOL3sGwXjLR4ocyOvCvipyA3mcvbC2GFITVykB_PDmYTrWqdkiLX.tfsMPZlUCLGRFnzD |
 | 14/Octubre | DTOs/Excepciones | https://ironhack.zoom.us/rec/share/54KT4H2p8zqlKWy0aSREZQl6pV5QcaaVwprQUQSM7jYAXx5vutJ-9MAUJJnUG6oc.SEZTBvhrZH9YyZOH |
 | 17/Octubre | Seguridad | https://ironhack.zoom.us/rec/share/R0s-FMCnFnFOEnuS_6Eykil-LkHKtXunDyOYnyAxhO9jwdQkr17CXr0zz3yGEWZn.pTOzPGYSGwdPeGij |
+| 24/Octubre | HTML | https://ironhack.zoom.us/rec/share/7zZp_Yp01zoKJ_yEWq4GBa5DZs7eJv8fDXHEemYgGqsETC65i29JnXDmU8NFKbZW.0HG0wNemn7gigm4C |
+| 25/Octubre | CSS | https://ironhack.zoom.us/rec/share/wX1BwCH5G_09OxBLxHqbMFu8AHRBPnYPXoRqjXJg9oGaR1rtmc38T2Z1KA1lndgD.866zbCiEJZ0wRwTH |
 
 
 
