@@ -16,6 +16,7 @@
 | 17/Octubre | Seguridad | https://ironhack.zoom.us/rec/share/R0s-FMCnFnFOEnuS_6Eykil-LkHKtXunDyOYnyAxhO9jwdQkr17CXr0zz3yGEWZn.pTOzPGYSGwdPeGij |
 | 24/Octubre | HTML | https://ironhack.zoom.us/rec/share/7zZp_Yp01zoKJ_yEWq4GBa5DZs7eJv8fDXHEemYgGqsETC65i29JnXDmU8NFKbZW.0HG0wNemn7gigm4C |
 | 25/Octubre | CSS | https://ironhack.zoom.us/rec/share/wX1BwCH5G_09OxBLxHqbMFu8AHRBPnYPXoRqjXJg9oGaR1rtmc38T2Z1KA1lndgD.866zbCiEJZ0wRwTH |
+| 26/Octubre | Media queries y Flex | https://ironhack.zoom.us/rec/share/2xV_HVPEehYRPrwoP4D6fs72aqXPO-IMExSHf3bDvDLhXrAOhAuxjXSEPcBInjci.WA_edbFxXUvXHx-B |
 
 
 
